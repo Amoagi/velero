@@ -1,0 +1,27 @@
+{
+  "name": "velero",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "d3": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.1.4",
+    "react-scrollbar": "^0.5.4",
+    "redux": "^4.0.0",
+    "rx": "^4.1.0",
+    "sqlite": "^2.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
